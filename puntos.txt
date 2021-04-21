@@ -1,1 +1,4 @@
 Cesar 1 punto
+
+Que objeto: Clase
+objeto YO
